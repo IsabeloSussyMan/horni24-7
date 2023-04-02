@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            background-color: lavender;
+            font-size: 1.2em;
+            font-family: Helvetica, sans-serif;
+            font-weight: bold;
+            text-transform: capitalize;
+        }
+        body {
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            background-image: url("images (65).jpeg");
+        }
+        a {
+            color: black;
+            font-style: italic;
+            text-decoration: none;
+            padding: 20px;
+        }
+        a:hover {
+            color: skyblue;
+        }
+    </style>
+</head>
+<body>
+    <a href="workspace/index.html">
+        Hurrem Concepcion
+    </a>
+    <a href="workspace/Jopaydizon/index.html">
+        Neon Kurt
+    </a>
+    <a href="gansta.html">
+        Marc Isabelo
+    </a>
+    <a href="ethics/index.html">
+        Angela Stefanie
+    </a>
+</body>
+</html>
